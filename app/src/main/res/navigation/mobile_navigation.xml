@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    android:label="Radio_Button"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.myapplication.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="com.example.myapplication.ui.dashboard.DashboardFragment"
+        android:label="Button"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/navigation_notifications"
+        android:name="com.example.myapplication.ui.notifications.NotificationsFragment"
+        android:label="Connect"
+        tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/navigation_message"
+        android:name="com.example.myapplication.ui.message.MessageFragment"
+        android:label="Setting"
+        tools:layout="@layout/fragment_message" />
+    <fragment
+        android:id="@+id/navigation_dashboard2"
+        android:name="com.example.myapplication.ui.dashboard2.Dashboard2Fragment"
+        android:label="Radio Button"
+        tools:layout="@layout/fragment_dashboard2" />
+</navigation>

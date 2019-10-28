@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BLE MESH</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="settings_about">BLE MESH was developed by SEJONG capstone project</string>
+    <string name="settings_version">BLE MESH version is V1.11</string>
+    <string name="settings_help">You need to call SEJONG capstone team</string>
+    <string name="settings_network">BLE MESH is developing Network</string>
+    <string name="aboutButton">About</string>
+    <string name="helpButton">Help</string>
+    <string name="versionButton">App Version</string>
+    <string name="networkButton">Network</string>
+    <string name="aboutButton_Sub">developers</string>
+    <string name="versionButton_Sub">1.11</string>
+</resources>

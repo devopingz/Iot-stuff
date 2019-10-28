@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="ContentDescription"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/network_settings_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/activity_horizontal_margin"
+        android:background="@color/white"
+        app:cardElevation="1dp">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/network_settings_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/item_padding_bottom">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/settings_toolbar"
+            android:layout_width="0dp"
+            android:layout_height="?actionBarSize"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:logo="@drawable/ic_certificate"
+            app:titleMarginStart="@dimen/toolbar_title_margin"
+            app:titleTextAppearance="@style/Toolbar.TitleText"
+            app:title="BLE MESH Setting" />
+
+        <include
+            android:id="@+id/about_button"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            layout="@layout/layout_container"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/settings_toolbar"
+            />
+
+        <include
+            android:id="@+id/network_button"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            layout="@layout/layout_container"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/about_button"
+          />
+
+        <include
+            android:id="@+id/version_button"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            layout="@layout/layout_container"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/network_button"
+      />
+
+        <include
+            android:id="@+id/help_button"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            layout="@layout/layout_container"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/version_button"
+           />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+
+        android:id="@+id/extra_settings_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/activity_horizontal_margin"
+        android:background="@color/white"
+        app:cardElevation="1dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/extra_settings_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/item_padding_bottom">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/extra_toolbar"
+        android:layout_width="0dp"
+        android:layout_height="?actionBarSize"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:logo="@drawable/addtional"
+        app:titleMarginStart="@dimen/toolbar_title_margin"
+        app:titleTextAppearance="@style/Toolbar.TitleText"
+        app:title="Additional Setting" />
+
+        <include
+            android:id="@+id/extra1_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            layout="@layout/layout_container"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/extra_toolbar"
+            />
+
+        <include
+            android:id="@+id/extra2_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            layout="@layout/layout_container"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/extra1_button"
+            />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+    </LinearLayout>
+</ScrollView>
