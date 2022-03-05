@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="40dp">
+
+
+    <Button
+        android:id="@+id/sendBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="51dp"
+        android:text="SEND"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/inputEditText"
+        app:layout_constraintTop_toBottomOf="@+id/PeripheralTextView" />
+
+
+    <Button
+        android:id="@+id/clearButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:text="CLEAR"
+        app:layout_constraintBaseline_toBaselineOf="@+id/openButton"
+        app:layout_constraintStart_toEndOf="@+id/openButton" />
+
+    <Button
+        android:id="@+id/saveButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="34dp"
+        android:text="SAVE"
+        app:layout_constraintBottom_toTopOf="@+id/PeripheralTextView"
+        app:layout_constraintStart_toStartOf="@+id/PeripheralTextView" />
+
+    <Button
+        android:id="@+id/openButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="23dp"
+        android:text="OPEN"
+        app:layout_constraintBaseline_toBaselineOf="@+id/saveButton"
+        app:layout_constraintStart_toEndOf="@+id/saveButton" />
+
+    <Button
+        android:id="@+id/forcePrintButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FORCE"
+        app:layout_constraintBaseline_toBaselineOf="@+id/onButton"
+        app:layout_constraintStart_toStartOf="@+id/saveButton" />
+
+    <Button
+        android:id="@+id/onButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="23dp"
+        android:layout_marginBottom="33dp"
+        android:text="ON"
+        app:layout_constraintBottom_toTopOf="@+id/openButton"
+        app:layout_constraintStart_toEndOf="@+id/forcePrintButton" />
+
+    <Button
+        android:id="@+id/offButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:text="OFF"
+        app:layout_constraintBaseline_toBaselineOf="@+id/onButton"
+        app:layout_constraintStart_toEndOf="@+id/onButton" />
+
+    <Button
+        android:id="@+id/confirmButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="7dp"
+        android:layout_marginBottom="15dp"
+        android:text="Connect"
+        app:layout_constraintBottom_toTopOf="@+id/inputEditText"
+        app:layout_constraintStart_toStartOf="@+id/inputEditText" />
+
+    <EditText
+        android:id="@+id/inputEditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="17dp"
+        android:layout_marginBottom="54dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="insert"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/sendBtn"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/PeripheralTextView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="179dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="80dp"
+        android:maxLines="30"
+        android:scrollbars="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/sendBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

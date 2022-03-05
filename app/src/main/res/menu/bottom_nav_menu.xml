@@ -12,19 +12,13 @@
         android:title="Button" />
 
     <item
-        android:id="@+id/navigation_dashboard2"
-        android:icon="@drawable/ic_dashboard2_black_24dp"
-        android:title="Radio Button" />
-
-    <item
-        android:id="@+id/navigation_notifications"
+        android:id="@+id/navigation_connect"
         android:icon="@drawable/ic_notifications_black_24dp"
         android:title="Connect" />
 
     <item
-        android:id="@+id/navigation_message"
+        android:id="@+id/navigation_setting"
         android:icon="@drawable/ic_message_black_24dp"
         android:title="Setting" />
-
 
 </menu>

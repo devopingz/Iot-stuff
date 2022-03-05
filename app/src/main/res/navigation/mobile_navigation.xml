@@ -8,29 +8,24 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.example.myapplication.ui.home.HomeFragment"
+        android:name="com.example.CapstoneMesh.ui.home.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.example.myapplication.ui.dashboard.DashboardFragment"
+        android:name="com.example.CapstoneMesh.ui.dashboard.DashboardFragment"
         android:label="Button"
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
-        android:name="com.example.myapplication.ui.notifications.NotificationsFragment"
+        android:id="@+id/navigation_connect"
+        android:name="com.example.CapstoneMesh.ui.connect.ConnectFragment"
         android:label="Connect"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_connect" />
     <fragment
-        android:id="@+id/navigation_message"
-        android:name="com.example.myapplication.ui.message.MessageFragment"
+        android:id="@+id/navigation_setting"
+        android:name="com.example.CapstoneMesh.ui.setting.SettingFragment"
         android:label="Setting"
-        tools:layout="@layout/fragment_message" />
-    <fragment
-        android:id="@+id/navigation_dashboard2"
-        android:name="com.example.myapplication.ui.dashboard2.Dashboard2Fragment"
-        android:label="Radio Button"
-        tools:layout="@layout/fragment_dashboard2" />
+        tools:layout="@layout/fragment_setting" />
 </navigation>

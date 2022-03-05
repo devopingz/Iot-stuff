@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.myapplication">
+    package="com.example.CapstoneMesh"
+    >
 
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
@@ -15,24 +16,30 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="BLE MESH"
+        android:icon="@drawable/bluetooth_icon"
+        android:label="CAPSTONE MESH"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.CapstoneMesh.MainActivity"
             android:label="BLE MESH">
 
         </activity>
 
         <activity
-            android:name=".SplashActivity"
+            android:name=".RadioActivity"
+            >
+        </activity>
+
+        <activity
+            android:name="com.example.CapstoneMesh.SplashActivity"
             android:theme="@style/SplashTheme"
             android:screenOrientation="portrait">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.scan" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>

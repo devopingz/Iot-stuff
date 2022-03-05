@@ -4,8 +4,8 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.2"
     defaultConfig {
-        applicationId "com.example.myapplication"
-        minSdkVersion 28
+        applicationId "com.example.CapstoneMesh"
+        minSdkVersion 26
         targetSdkVersion 29
         versionCode 1
         versionName "1.0"
