@@ -8,7 +8,7 @@
 ###### 프로젝트 개발 참여 파트 : Android app develop, User interface android app
 
 </br></br>
-![image](https://user-images.githubusercontent.com/56243414/204867993-f672740c-b7ce-4f77-9fab-3e42497fb147.png)
+![image](https://user-images.githubusercontent.com/56243414/204870909-cc18f3f2-0254-4175-b753-e1634d4dc603.png)
 </br></br></br>
 ![image](https://user-images.githubusercontent.com/56243414/204868086-df6872c7-db3b-4eac-8334-c30d6288fdcc.png)
 </br></br></br>
