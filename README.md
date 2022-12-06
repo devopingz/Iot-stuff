@@ -6,13 +6,12 @@
 ###### 프로젝트 개발 참여 파트 : Android app develop, User interface android app
 
 </br></br>
-![image](https://user-images.githubusercontent.com/56243414/204870909-cc18f3f2-0254-4175-b753-e1634d4dc603.png)
-</br></br></br>
-![image](https://user-images.githubusercontent.com/56243414/204868086-df6872c7-db3b-4eac-8334-c30d6288fdcc.png)
-</br></br></br>
-![image](https://user-images.githubusercontent.com/56243414/204868263-84a5a362-9dc5-4b08-8859-5ae98b504597.png)
-</br></br></br>
-![image](https://user-images.githubusercontent.com/56243414/204868323-e619b9c0-1783-4db9-a3ca-21d0a0f56e3f.png)
-
+![image](https://user-images.githubusercontent.com/56243414/205889716-2e6a034c-0ff9-4bb1-97e4-516445fa1687.png)
+</br></br>
+![image](https://user-images.githubusercontent.com/56243414/205889798-15c95dfc-d02c-460c-873e-bea3ec1a8d9a.png)
+</br></br>
+![image](https://user-images.githubusercontent.com/56243414/205890240-8bb2e95d-d615-4dbc-b3ac-cf9588699706.png)
+</br></br>
+![image](https://user-images.githubusercontent.com/56243414/205889861-b7414cd2-4a29-4249-b8c5-bc41bae74c4f.png)
 
 
