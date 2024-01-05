@@ -28,24 +28,33 @@
 #### - **Commuication** : Bluetooth, Wifi
 
 ## 화면 구성 📺
-### Android App flow
+### ● 흐름도
 ![flow](https://github.com/devopingz/Iot-stuff/assets/56243414/4c0e2dbf-3970-4684-a978-afae9aacb100)</br></br>
-### 앱 화면
+### ● 앱 화면
 ![앱 화면 구성](https://github.com/devopingz/Iot-stuff/assets/56243414/174e5255-212d-46ff-97ba-aa922e5e4234)</br></br>
-
 
 ---
 ## 📌 주요 기능
 ### ● 블루투스 ON/OFF
-![image](https://user-images.githubusercontent.com/56243414/205893538-d4f4727f-dfe6-4e36-b3ea-6d18df858f57.png)
+![bluetoothonoff](https://github.com/devopingz/Iot-stuff/assets/56243414/1c2e277e-c8ea-4e33-b8e5-708b6a455d06)
+</br></br>
+
+---
+### ● 페어링할 디바이스 보여주기
+![paring](https://github.com/devopingz/Iot-stuff/assets/56243414/346cb8d2-ea06-4459-8ace-6d901b361751)
+</br></br>
+
+---
+### ● 새로운 디바이스 찾기
+![discover](https://github.com/devopingz/Iot-stuff/assets/56243414/54ac0af3-a951-4786-86ef-c34f08fe24a4)
 </br></br>
 
 
-![image](https://user-images.githubusercontent.com/56243414/205889716-2e6a034c-0ff9-4bb1-97e4-516445fa1687.png)
+<!-- ![image](https://user-images.githubusercontent.com/56243414/205889716-2e6a034c-0ff9-4bb1-97e4-516445fa1687.png)
 </br></br></br>
 ![image](https://user-images.githubusercontent.com/56243414/205889798-15c95dfc-d02c-460c-873e-bea3ec1a8d9a.png)
 </br></br></br>
 ![image](https://user-images.githubusercontent.com/56243414/205890240-8bb2e95d-d615-4dbc-b3ac-cf9588699706.png)
 </br></br></br>
-![image](https://user-images.githubusercontent.com/56243414/205889861-b7414cd2-4a29-4249-b8c5-bc41bae74c4f.png)
+![image](https://user-images.githubusercontent.com/56243414/205889861-b7414cd2-4a29-4249-b8c5-bc41bae74c4f.png) !-->
 
