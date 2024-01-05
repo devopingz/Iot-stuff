@@ -93,7 +93,7 @@
 
 ---
 #### ● Finish H.W
-![finalhardware](https://github.com/devopingz/Iot-stuff/assets/56243414/34c84b2d-013b-4dd1-9bf7-52891952f882)
+![finalhardware](https://github.com/devopingz/Iot-stuff/assets/56243414/caeb1f07-0dcf-415c-ba4d-ed6b8a1478d2)
 </br></br>
 
 ---
@@ -103,24 +103,16 @@
 
 ---
 #### ● Demonstration
-![demon1](https://github.com/devopingz/Iot-stuff/assets/56243414/27996e5e-1fe6-486e-93a9-3ea0015fb403)
+![demon1](https://github.com/devopingz/Iot-stuff/assets/56243414/445808fd-9f04-4705-9385-c4570961ed87)
 </br></br>
 
 ---
 #### ● Demonstration
-![demon2](https://github.com/devopingz/Iot-stuff/assets/56243414/a4d2f038-e74f-4411-af7d-6c46636e970c)
+![demon2](https://github.com/devopingz/Iot-stuff/assets/56243414/045ab9cd-5f3f-47af-8b42-ab461dad32b9)
 </br></br>
 
 ---
 #### ● Demonstration
 ![demon3](https://github.com/devopingz/Iot-stuff/assets/56243414/7763b124-9a7c-4064-b6d3-e4eb7ed821fd)
 </br></br>
-
-<!-- ![image](https://user-images.githubusercontent.com/56243414/205889716-2e6a034c-0ff9-4bb1-97e4-516445fa1687.png)
-</br></br></br>
-![image](https://user-images.githubusercontent.com/56243414/205889798-15c95dfc-d02c-460c-873e-bea3ec1a8d9a.png)
-</br></br></br>
-![image](https://user-images.githubusercontent.com/56243414/205890240-8bb2e95d-d615-4dbc-b3ac-cf9588699706.png)
-</br></br></br>
-![image](https://user-images.githubusercontent.com/56243414/205889861-b7414cd2-4a29-4249-b8c5-bc41bae74c4f.png)  !-->
-
+---
