@@ -22,10 +22,10 @@
 ---
 
 ## ⚙️ 개발 환경
-#### - **Database** : SQLite
-#### - **Tool** : Android Stuido
-#### - **Programming Language** : Java
-#### - **Commuication** : Bluetooth, Wifi
+#### ● **Database** : SQLite
+#### ● **Tool** : Android Stuido
+#### ● **Programming Language** : Java
+#### ● **Commuication** : Bluetooth, Wifi
 
 ## 📺 화면 구성 
 ### ● 흐름도
