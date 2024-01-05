@@ -1,11 +1,3 @@
-![image](https://user-images.githubusercontent.com/56243414/205889716-2e6a034c-0ff9-4bb1-97e4-516445fa1687.png)
-</br></br></br>
-![image](https://user-images.githubusercontent.com/56243414/205889798-15c95dfc-d02c-460c-873e-bea3ec1a8d9a.png)
-</br></br></br>
-![image](https://user-images.githubusercontent.com/56243414/205890240-8bb2e95d-d615-4dbc-b3ac-cf9588699706.png)
-</br></br></br>
-![image](https://user-images.githubusercontent.com/56243414/205889861-b7414cd2-4a29-4249-b8c5-bc41bae74c4f.png)
-
 # Iot-stuff project  
 #### ● 세종대학교 2019-2학기 캡스톤디자인(산학협력프로젝트)(영어강의) <br>
 #### ● 어플리케이션과 하드웨어를 블루투스 통신으로 연결하고 앱으로 하드웨어를 작동시켜 불빛이 들어오게 하는 프로젝트    
@@ -23,7 +15,7 @@
 #### ● 2019.09 ~ 2019.12
 
 ---
-## 🧑‍🤝‍🧑 맴버구성
+## 🧑‍🤝‍🧑 멤버구성
 #### ● 박진우 : H/W and Firmware Development
 #### ● 심규림 : Communication system for Android App
 #### ● 조홍민 : User Interface / Android App develop, Build DB through SQLite 
@@ -75,3 +67,12 @@
 ![image](https://user-images.githubusercontent.com/56243414/205893305-b8d7e87d-155d-4224-806b-23981748dc14.png)
 </br></br>
 ---
+
+![image](https://user-images.githubusercontent.com/56243414/205889716-2e6a034c-0ff9-4bb1-97e4-516445fa1687.png)
+</br></br></br>
+![image](https://user-images.githubusercontent.com/56243414/205889798-15c95dfc-d02c-460c-873e-bea3ec1a8d9a.png)
+</br></br></br>
+![image](https://user-images.githubusercontent.com/56243414/205890240-8bb2e95d-d615-4dbc-b3ac-cf9588699706.png)
+</br></br></br>
+![image](https://user-images.githubusercontent.com/56243414/205889861-b7414cd2-4a29-4249-b8c5-bc41bae74c4f.png)
+
