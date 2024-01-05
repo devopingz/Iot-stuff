@@ -42,7 +42,7 @@
 </br></br>
 
 ---
-#### ● DB Test
+### ● DB Test
 ![dbtest](https://github.com/devopingz/Iot-stuff/assets/56243414/8979e73a-c742-4148-a330-b2fa90b65f0c)
 </br></br>
 
@@ -113,6 +113,7 @@
 
 ---
 #### ● Demonstration
-![demon3](https://github.com/devopingz/Iot-stuff/assets/56243414/7763b124-9a7c-4064-b6d3-e4eb7ed821fd)
+![demon3](https://github.com/devopingz/Iot-stuff/assets/56243414/3974448a-5df8-4d90-81fb-a7f88dab92cc)
 </br></br>
+
 ---
