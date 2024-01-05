@@ -47,72 +47,72 @@
 </br></br>
 
 ---
-#### ● 클라이언트 및 서버 TEST
+### ● 클라이언트 및 서버 TEST
 ![clttoserver](https://github.com/devopingz/Iot-stuff/assets/56243414/b0dc0e85-80cc-4717-bf8c-64320664b422)
 </br></br>
 
 ---
-#### ● 디바이스 클릭 후 연결
+### ● 디바이스 클릭 후 연결
 ![connect](https://github.com/devopingz/Iot-stuff/assets/56243414/ab8a9bbf-04a5-48c2-a08e-834bccdbb778)
 </br></br>
 
 ---
-#### ● 연결 상태 확인
+### ● 연결 상태 확인
 ![Connectstatus](https://github.com/devopingz/Iot-stuff/assets/56243414/5beeccd4-5a57-4ee1-954f-9d9784d9ea93)
 </br></br>
 
 ---
-#### ● 전송에 사용되는 명령어
+### ● 전송에 사용되는 명령어
 ![Tramissionguide](https://github.com/devopingz/Iot-stuff/assets/56243414/8317157c-bb84-46e6-a875-378119a55762)
 </br></br>
 
 ---
-#### ● 전송과정
+### ● 전송과정
 ![trans](https://github.com/devopingz/Iot-stuff/assets/56243414/7e8cab69-9f41-441f-8f74-7fe07144789b)
 </br></br>
 
 ---
-#### ● 통신과정
+### ● 통신과정
 ![tongsin](https://github.com/devopingz/Iot-stuff/assets/56243414/c232a2af-b02e-436b-a009-4c5396845108)
 </br></br>
 
 ---
-#### ● H.W Dev - Schematic
+### ● H.W Dev - Schematic
 ![hwschema](https://github.com/devopingz/Iot-stuff/assets/56243414/977d338a-28eb-47ba-b0eb-2142ccd9805b)
 </br></br>
 
 ---
-#### ● H.W Dev - Gerber
+### ● H.W Dev - Gerber
 ![Gerber](https://github.com/devopingz/Iot-stuff/assets/56243414/e0f110af-cf62-4f31-8e06-08848544f402)
 </br></br>
 
 ---
-#### ● H.W Dev - PCB Ordering
+### ● H.W Dev - PCB Ordering
 ![pcborder](https://github.com/devopingz/Iot-stuff/assets/56243414/ca2009ee-b95e-4101-b79e-93394e8dd3cd)
 </br></br>
 
 ---
-#### ● Finish H.W
+### ● Finish H.W
 ![finalhardware](https://github.com/devopingz/Iot-stuff/assets/56243414/caeb1f07-0dcf-415c-ba4d-ed6b8a1478d2)
 </br></br>
 
 ---
-#### ● Firmware Programming Side
+### ● Firmware Programming Side
 ![firmware](https://github.com/devopingz/Iot-stuff/assets/56243414/777c83ea-0da5-4a83-87e3-94fd5551e90b)
 </br></br>
 
 ---
-#### ● Demonstration
+### ● Demonstration
 ![demon1](https://github.com/devopingz/Iot-stuff/assets/56243414/445808fd-9f04-4705-9385-c4570961ed87)
 </br></br>
 
 ---
-#### ● Demonstration
+### ● Demonstration
 ![demon2](https://github.com/devopingz/Iot-stuff/assets/56243414/045ab9cd-5f3f-47af-8b42-ab461dad32b9)
 </br></br>
 
 ---
-#### ● Demonstration
+### ● Demonstration
 ![demon3](https://github.com/devopingz/Iot-stuff/assets/56243414/3974448a-5df8-4d90-81fb-a7f88dab92cc)
 </br></br>
 
