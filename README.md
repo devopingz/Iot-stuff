@@ -42,23 +42,45 @@
 </br></br>
 
 ---
-#### ● DB TEST
+#### ● DB Test
 ![dbtest](https://github.com/devopingz/Iot-stuff/assets/56243414/8979e73a-c742-4148-a330-b2fa90b65f0c)
 </br></br>
 
 ---
-#### ● 통신과정
----
+#### ● 클라이언트 및 서버 TEST
 ![clttoserver](https://github.com/devopingz/Iot-stuff/assets/56243414/b0dc0e85-80cc-4717-bf8c-64320664b422)
+</br></br>
+
+---
+#### ● 디바이스 클릭 후 연결
 ![connect](https://github.com/devopingz/Iot-stuff/assets/56243414/ab8a9bbf-04a5-48c2-a08e-834bccdbb778)
+</br></br>
+
+---
+#### ● 연결 상태 확인
 ![Connectstatus](https://github.com/devopingz/Iot-stuff/assets/56243414/5beeccd4-5a57-4ee1-954f-9d9784d9ea93)
 </br></br>
 
-<!-- ![image](https://user-images.githubusercontent.com/56243414/205889716-2e6a034c-0ff9-4bb1-97e4-516445fa1687.png)
+---
+#### ● 연결 상태 확인
+![Connectstatus](https://github.com/devopingz/Iot-stuff/assets/56243414/5beeccd4-5a57-4ee1-954f-9d9784d9ea93)
+</br></br>
+
+---
+#### ● 전송에 사용되는 명령어
+![Connectstatus](https://github.com/devopingz/Iot-stuff/assets/56243414/5beeccd4-5a57-4ee1-954f-9d9784d9ea93)
+</br></br>
+
+---
+#### ● 전송과정
+![trans](https://github.com/devopingz/Iot-stuff/assets/56243414/7e8cab69-9f41-441f-8f74-7fe07144789b)
+</br></br>
+
+![image](https://user-images.githubusercontent.com/56243414/205889716-2e6a034c-0ff9-4bb1-97e4-516445fa1687.png)
 </br></br></br>
 ![image](https://user-images.githubusercontent.com/56243414/205889798-15c95dfc-d02c-460c-873e-bea3ec1a8d9a.png)
 </br></br></br>
 ![image](https://user-images.githubusercontent.com/56243414/205890240-8bb2e95d-d615-4dbc-b3ac-cf9588699706.png)
 </br></br></br>
-![image](https://user-images.githubusercontent.com/56243414/205889861-b7414cd2-4a29-4249-b8c5-bc41bae74c4f.png) !-->
+![image](https://user-images.githubusercontent.com/56243414/205889861-b7414cd2-4a29-4249-b8c5-bc41bae74c4f.png) 
 
