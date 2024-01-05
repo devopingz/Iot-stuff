@@ -27,7 +27,7 @@
 #### - **Programming Language** : Java
 #### - **Commuication** : Bluetooth, Wifi
 
-## 화면 구성 📺
+## 📺 화면 구성 
 ### ● 흐름도
 ![flow](https://github.com/devopingz/Iot-stuff/assets/56243414/4c0e2dbf-3970-4684-a978-afae9aacb100)</br></br>
 ### ● 앱 화면
