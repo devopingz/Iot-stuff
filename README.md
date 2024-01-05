@@ -1,4 +1,4 @@
-![image](https://github.com/devopingz/Iot-stuff/assets/56243414/22a2de24-7654-4fef-9d59-28445a48cbe8)# Iot-stuff project  
+# Iot-stuff project  
 #### ● 세종대학교 2019-2학기 캡스톤디자인(산학협력프로젝트)(영어강의) <br>
 #### ● 앱과 하드웨어를 블루투스 통신으로 연결하고 앱으로 하드웨어를 작동시켜 불빛이 들어오게 하는 프로젝트    
 ![zzzzzzz](https://github.com/devopingz/Iot-stuff/assets/56243414/307fa07b-9ed2-4668-b3d2-fb68ce46ca48)
@@ -77,7 +77,7 @@
 </br></br>
 
 #### ● H.W Dev - Schematic
-![tongsin](https://github.com/devopingz/Iot-stuff/assets/56243414/c232a2af-b02e-436b-a009-4c5396845108)
+![hwschema](https://github.com/devopingz/Iot-stuff/assets/56243414/977d338a-28eb-47ba-b0eb-2142ccd9805b)
 </br></br>
 
 <!-- ![image](https://user-images.githubusercontent.com/56243414/205889716-2e6a034c-0ff9-4bb1-97e4-516445fa1687.png)
