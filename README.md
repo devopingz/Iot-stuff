@@ -1,4 +1,4 @@
-# Iot-stuff project  
+![image](https://github.com/devopingz/Iot-stuff/assets/56243414/352c0c75-8293-49b1-8bb9-fa37d13ab8e1)# Iot-stuff project  
 #### ● 세종대학교 2019-2학기 캡스톤디자인(산학협력프로젝트)(영어강의) <br>
 #### ● 앱과 하드웨어를 블루투스 통신으로 연결하고 앱으로 하드웨어를 작동시켜 불빛이 들어오게 하는 프로젝트    
 ![zzzzzzz](https://github.com/devopingz/Iot-stuff/assets/56243414/307fa07b-9ed2-4668-b3d2-fb68ce46ca48)
@@ -79,6 +79,34 @@
 ---
 #### ● H.W Dev - Schematic
 ![hwschema](https://github.com/devopingz/Iot-stuff/assets/56243414/977d338a-28eb-47ba-b0eb-2142ccd9805b)
+</br></br>
+
+#### ● H.W Dev - Gerber
+![Gerber](https://github.com/devopingz/Iot-stuff/assets/56243414/e0f110af-cf62-4f31-8e06-08848544f402)
+</br></br>
+
+#### ● H.W Dev - PCB Ordering
+![pcborder](https://github.com/devopingz/Iot-stuff/assets/56243414/ca2009ee-b95e-4101-b79e-93394e8dd3cd)
+</br></br>
+
+#### ● Finish H.W
+![finalhardware](https://github.com/devopingz/Iot-stuff/assets/56243414/34c84b2d-013b-4dd1-9bf7-52891952f882)
+</br></br>
+
+#### ● Firmware Programming Side
+![firmware](https://github.com/devopingz/Iot-stuff/assets/56243414/777c83ea-0da5-4a83-87e3-94fd5551e90b)
+</br></br>
+
+#### ● Demonstration
+![demon1](https://github.com/devopingz/Iot-stuff/assets/56243414/27996e5e-1fe6-486e-93a9-3ea0015fb403)
+</br></br>
+
+#### ● Demonstration
+![demon2](https://github.com/devopingz/Iot-stuff/assets/56243414/a4d2f038-e74f-4411-af7d-6c46636e970c)
+</br></br>
+
+#### ● Demonstration
+![demon3](https://github.com/devopingz/Iot-stuff/assets/56243414/7763b124-9a7c-4064-b6d3-e4eb7ed821fd)
 </br></br>
 
 <!-- ![image](https://user-images.githubusercontent.com/56243414/205889716-2e6a034c-0ff9-4bb1-97e4-516445fa1687.png)
