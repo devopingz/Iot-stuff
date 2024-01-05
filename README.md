@@ -35,11 +35,24 @@
 
 ---
 ## 📌 주요 기능
-### ● 블루투스 ON/OFF, 페어링할 디바이스 보여주기, 새로운 디바이스 찾기
+#### ● 블루투스 ON/OFF
+#### ● 페어링할 디바이스 보여주기
+#### ● 새로운 디바이스 찾기
 ![app](https://github.com/devopingz/Iot-stuff/assets/56243414/d428246b-4619-4fcd-8d93-8b115950ff31)
 </br></br>
 
 ---
+#### ● DB TEST
+![dbtest](https://github.com/devopingz/Iot-stuff/assets/56243414/8979e73a-c742-4148-a330-b2fa90b65f0c)
+</br></br>
+
+---
+#### ● 통신과정
+---
+![clttoserver](https://github.com/devopingz/Iot-stuff/assets/56243414/b0dc0e85-80cc-4717-bf8c-64320664b422)
+![connect](https://github.com/devopingz/Iot-stuff/assets/56243414/ab8a9bbf-04a5-48c2-a08e-834bccdbb778)
+![Connectstatus](https://github.com/devopingz/Iot-stuff/assets/56243414/5beeccd4-5a57-4ee1-954f-9d9784d9ea93)
+</br></br>
 
 <!-- ![image](https://user-images.githubusercontent.com/56243414/205889716-2e6a034c-0ff9-4bb1-97e4-516445fa1687.png)
 </br></br></br>
