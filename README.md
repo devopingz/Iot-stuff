@@ -1,4 +1,4 @@
-# Iot-stuff project  
+![image](https://github.com/devopingz/Iot-stuff/assets/56243414/22a2de24-7654-4fef-9d59-28445a48cbe8)# Iot-stuff project  
 #### ● 세종대학교 2019-2학기 캡스톤디자인(산학협력프로젝트)(영어강의) <br>
 #### ● 앱과 하드웨어를 블루투스 통신으로 연결하고 앱으로 하드웨어를 작동시켜 불빛이 들어오게 하는 프로젝트    
 ![zzzzzzz](https://github.com/devopingz/Iot-stuff/assets/56243414/307fa07b-9ed2-4668-b3d2-fb68ce46ca48)
@@ -34,7 +34,7 @@
 ![앱 화면 구성](https://github.com/devopingz/Iot-stuff/assets/56243414/174e5255-212d-46ff-97ba-aa922e5e4234)</br></br>
 
 ---
-## 📌 주요 기능
+## 📌 주요 기능 및 개발 과정
 #### ● 블루투스 ON/OFF
 #### ● 페어링할 디바이스 보여주기
 #### ● 새로운 디바이스 찾기
@@ -62,13 +62,8 @@
 </br></br>
 
 ---
-#### ● 연결 상태 확인
-![Connectstatus](https://github.com/devopingz/Iot-stuff/assets/56243414/5beeccd4-5a57-4ee1-954f-9d9784d9ea93)
-</br></br>
-
----
 #### ● 전송에 사용되는 명령어
-![Connectstatus](https://github.com/devopingz/Iot-stuff/assets/56243414/5beeccd4-5a57-4ee1-954f-9d9784d9ea93)
+![Tramissionguide](https://github.com/devopingz/Iot-stuff/assets/56243414/8317157c-bb84-46e6-a875-378119a55762)
 </br></br>
 
 ---
@@ -76,11 +71,20 @@
 ![trans](https://github.com/devopingz/Iot-stuff/assets/56243414/7e8cab69-9f41-441f-8f74-7fe07144789b)
 </br></br>
 
-![image](https://user-images.githubusercontent.com/56243414/205889716-2e6a034c-0ff9-4bb1-97e4-516445fa1687.png)
+---
+#### ● 통신과정
+![tongsin](https://github.com/devopingz/Iot-stuff/assets/56243414/c232a2af-b02e-436b-a009-4c5396845108)
+</br></br>
+
+#### ● H.W Dev - Schematic
+![tongsin](https://github.com/devopingz/Iot-stuff/assets/56243414/c232a2af-b02e-436b-a009-4c5396845108)
+</br></br>
+
+<!-- ![image](https://user-images.githubusercontent.com/56243414/205889716-2e6a034c-0ff9-4bb1-97e4-516445fa1687.png)
 </br></br></br>
 ![image](https://user-images.githubusercontent.com/56243414/205889798-15c95dfc-d02c-460c-873e-bea3ec1a8d9a.png)
 </br></br></br>
 ![image](https://user-images.githubusercontent.com/56243414/205890240-8bb2e95d-d615-4dbc-b3ac-cf9588699706.png)
 </br></br></br>
-![image](https://user-images.githubusercontent.com/56243414/205889861-b7414cd2-4a29-4249-b8c5-bc41bae74c4f.png) 
+![image](https://user-images.githubusercontent.com/56243414/205889861-b7414cd2-4a29-4249-b8c5-bc41bae74c4f.png)  !-->
 
