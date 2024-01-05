@@ -1,4 +1,3 @@
-![zzzzzzz](https://github.com/devopingz/Iot-stuff/assets/56243414/32767186-db76-42c3-8a1e-befc1422bd99)</br></br>
 ![image](https://user-images.githubusercontent.com/56243414/205889716-2e6a034c-0ff9-4bb1-97e4-516445fa1687.png)
 </br></br></br>
 ![image](https://user-images.githubusercontent.com/56243414/205889798-15c95dfc-d02c-460c-873e-bea3ec1a8d9a.png)
@@ -8,15 +7,15 @@
 ![image](https://user-images.githubusercontent.com/56243414/205889861-b7414cd2-4a29-4249-b8c5-bc41bae74c4f.png)
 
 # Iot-stuff project  
-#### ● 세종대학교 캡스톤디자인(산학협력프로젝트) 2019-2학기 프로젝트<br>
+#### ● 세종대학교 2019-2학기 캡스톤디자인(산학협력프로젝트)(영어강의) <br>
 #### ● 어플리케이션과 하드웨어를 블루투스 통신으로 연결하고 앱으로 하드웨어를 작동시켜 불빛이 들어오게 하는 프로젝트    
 ![zzzzzzz](https://github.com/devopingz/Iot-stuff/assets/56243414/307fa07b-9ed2-4668-b3d2-fb68ce46ca48)
 
 ---
 ## 🖥️ 프로젝트 개요
 #### ● 하드웨어와 소프트웨어 개발을 모두 포함하는 프로젝트<br>
-#### ● 입력/출력 시스템의 안전한 인터페이스를 갖춘 준산업 수준의 하드웨어를 보유
-![image](https://github.com/devopingz/Iot-stuff/assets/56243414/30919b73-b494-42dd-87d7-b890316fe705)
+#### ● 입력/출력 시스템의 안전한 인터페이스를 갖춘 준산업 수준의 하드웨어를 보유<br>
+![image](https://github.com/devopingz/Iot-stuff/assets/56243414/d225d055-611f-48d0-ab02-fc9a2683333f)
 <br>
 
 ---
@@ -25,9 +24,9 @@
 
 ---
 ## 🧑‍🤝‍🧑 맴버구성
-### ● 박진우 : H/W and Firmware Development
-### ● 심규림 : Communication system for Android App
-### ● 조홍민 : User Interface / Android App develop, Build DB through SQLite 
+#### ● 박진우 : H/W and Firmware Development
+#### ● 심규림 : Communication system for Android App
+#### ● 조홍민 : User Interface / Android App develop, Build DB through SQLite 
 ---
 
 ## ⚙️ 개발 환경
@@ -35,10 +34,6 @@
 #### - **Tool** : Android Stuido
 #### - **Programming Language** : Java
 #### - **Commuication** : Bluetooth, Wifi
-![image](https://user-images.githubusercontent.com/56243414/204865800-bc4413bb-9ac4-45db-970d-a41ff93183c6.png)
-</br></br>
-![image](https://user-images.githubusercontent.com/56243414/205893486-ed9d5201-d3c4-43b9-b188-476620d7c5c3.png)
-</br></br>
 
 ---
 ## 📌 주요 기능
